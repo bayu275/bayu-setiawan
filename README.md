@@ -30,6 +30,6 @@
 <p><a href="https://www.buymeacoffee.com/bayu275"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bayu275" /></a></p><br><br>
 <div>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayu275&show_icons=true&locale=en&layout=compact" alt="bayu275" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayu275&show_icons=true&locale=en" alt="bayu275" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayu275&show_icons=true&locale=en" alt="bayu275" /></p> -->
 </div>
 </div>
