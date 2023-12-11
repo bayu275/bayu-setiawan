@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bayuusetiawan86@gmail.com**
 
-- 📄 Portofolio [https://bayusetiawan.com](https://bayusetiawan.com)
+- 📄 Portofolio [https://bayu275.github.io/](https://bayu275.github.io)
 
 - ⚡ Fun fact **I think I am funny**
 
